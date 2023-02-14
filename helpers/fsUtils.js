@@ -1,3 +1,4 @@
+// *** CITATION: These helper functions were borrowed from the __Trilogy Education Services, LLC__ Coding Bootcamp, Module 11- Express, Activity 28: Stu_Mini-Project *** //
 const fs = require('fs');
 const util = require('util');
 
